@@ -1,0 +1,13 @@
+[{
+	"rsrcId": 200010,
+	"resource_NAME": "TFS",
+	"children": [{
+		"rsrcId": 200011,
+		"resource_NAME": "T_MIDWEST",
+		"children": [{
+				"rsrcId": 200020,
+				"resource_NAME": "T_MIDWEST_AG4",
+				"children": []
+			}]
+	}]
+}]
