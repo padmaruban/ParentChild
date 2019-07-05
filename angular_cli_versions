@@ -1,0 +1,13 @@
+https://stackoverflow.com/a/55716777/11548268
+
+
+The angular/cli versions and their installed angular/compiler versions:
+
+1.0 - 1.4.x = ^4.0.0
+1.5.x = ^5.0.0
+1.6.x - 1.7.x = ^5.2.0
+6.x = ^6.0.0
+7.x = ^7.0.0
+Can be confirmed by reviewing the angular/cli's package.json file in the repository. One would have to install the specific cli version to get the specific angular version:
+
+npm -g install @angular/cli@1.5.* # For ^5.0.0
